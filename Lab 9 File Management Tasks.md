@@ -4,7 +4,7 @@
 
 Run the following command:
 
-`student@bchd:~$` `cd && wget https://raw.githubusercontent.com/csfeeser/Linux-Exercises/main/essentialtools.sh`
+`student@bchd:~$` `cd && wget https://raw.githubusercontent.com/csfeeser/Linux-Exercises/main/essentialtools.sh && bash essentialtools.sh`
 
 As we finish up our work with Linux today, do the following to test the most recent commands you've learned:
 
