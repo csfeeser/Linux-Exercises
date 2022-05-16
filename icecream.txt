@@ -1,0 +1,13 @@
+Hello! My name is _______.
+I enjoy the following ice cream flavors:
+# delete all but your TOP THREE flavors in this list
+Vanilla
+Matcha
+Chocolate
+Coconut
+Banana
+Pistachio
+Cookie Dough
+Pumpkin
+Salted Caramel
+Bubble Gum
