@@ -6,8 +6,7 @@ It's a deep, dense world of files and directories in Linux, and you'll definitel
 
 Paste the following command into your terminal:
 
-`student@bchd:~$` `cd && wget https://raw.githubusercontent.com/csfeeser/Linux-Exercises/main/findingfiles.py -qO findingfiles.py && sud│
-o python3 findingfiles.py`
+`student@bchd:~$` `cd && wget https://raw.githubusercontent.com/csfeeser/Linux-Exercises/main/findingfiles.py -qO findingfiles.py && sudo python3 findingfiles.py`
 
 Mischief managed! With your new `find` command, accomplish the following:
 
