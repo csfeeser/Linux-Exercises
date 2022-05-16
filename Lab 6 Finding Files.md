@@ -1,4 +1,4 @@
-## Complete Lab 6. Finding Files
+## Complete Lab 7. Finding Files
 
 <img src="https://i.redd.it/3zoe90gmq7y51.jpg" width="300"/>
 
