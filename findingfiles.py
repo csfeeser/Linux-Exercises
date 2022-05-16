@@ -1,5 +1,7 @@
 import os
   
+os.system("mkdir -p /home/student/mycode")
+
 os.system("touch /home/student/mycode/SLAPPY")
 
 for x in range(10):
