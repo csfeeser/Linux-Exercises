@@ -2,14 +2,14 @@
 
 <img src="https://pbs.twimg.com/media/DWVgnPdXcAArUU9.jpg" width="300"/>
 
-0. Run the following command to download a .txt file!
+Run the following command to download a .txt file!
 
 `student@bchd:~$` `cd && wget https://raw.githubusercontent.com/csfeeser/Linux-Exercises/main/icecream.txt -qO icecream.txt`
 
 ### OBJECTIVES:
-- open the file you just downloaded
-- edit the file so the first line contains your name
-- delete all but three of the ice cream flavors
+- Open the file you just downloaded
+- Edit the file so the first line contains your name
+- Delete all but three of the ice cream flavors
 - Paste the following onto the end of the document:
 
 ```
