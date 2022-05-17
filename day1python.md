@@ -25,3 +25,7 @@ In your terminal, run these commands to execute the code:
 `chmod u+x day2warmup.py`
 
 `./day2warmup.py`
+
+### BONUS:
+
+Convert that print function to use an F-STRING instead!
