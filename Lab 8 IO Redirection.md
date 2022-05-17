@@ -6,7 +6,7 @@ I/O redirection is something that will translate into many Python labs we will b
 
 Here is a quick challenge. Run the following command:
 
-`student@bchd:~$` `cd && wget https://raw.githubusercontent.com/csfeeser/Linux-Exercises/main/catfiles.sh && bash catfiles.sh`
+`student@bchd:~$` `cd && wget https://raw.githubusercontent.com/csfeeser/Linux-Exercises/main/catfiles.sh -qO catfiles.sh && bash catfiles.sh`
 
 Change directories into the new directory you just made.
 
