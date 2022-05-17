@@ -18,7 +18,6 @@ def main():
     # OUTPUT SHOULD READ AS:
     # To calculate the circumference of a circle, the formula is 2 x 3.14 x radius
 
-main()
 ```
 
 In your terminal, run these commands to execute the code:
