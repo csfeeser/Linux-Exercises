@@ -12,7 +12,7 @@ Change directories into the new directory you just made.
 
 `student@bchd:~$` `cd ~/haiku`
 
-Inside this directory you will find three files. Your task is to use the `cat` command to reveal the contents of each file. Use what you've learned in lab 8 to combine the contents of these three files into a single new file `completed.txt`. The content of `completed.txt` when finished should be thus:
+Inside this directory you will find three files. Your task is to use the `cat` command to reveal the contents of each file. Use what you've learned in lab 9 to combine the contents of these three files into a single new file `completed.txt`. The content of `completed.txt` when finished should be thus:
 
 ```
 Haikus are easy.
