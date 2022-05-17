@@ -1,4 +1,4 @@
-# Complete Lab 7. Piping Output
+# Complete Lab 8. Piping Output
 
 <img src="https://www.linuxcommands.site/wp-content/uploads/2019/08/image-1024x446.png" width="300"/>
 
