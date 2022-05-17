@@ -1,4 +1,4 @@
-## Complete Lab 8. I/O Redirection
+## Complete Lab 9. I/O Redirection
 
 <img src="https://i.redd.it/waxhw7jaeq451.jpg" width="300"/>
 
