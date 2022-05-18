@@ -1,4 +1,4 @@
-## Complete Lab 12. Understand User Properties
+## Complete Lab 13. Understand User Properties
 
 <img src="https://preview.redd.it/jhrwbys7pb151.jpg?auto=webp&s=70e7cd41da946e1532ff2e54d2e0171ef78035bf" width="300"/>
 
