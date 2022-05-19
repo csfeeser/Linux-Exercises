@@ -8,7 +8,11 @@ Using what you've learned from lab 16 yesterday, do the following:
 
 Run the following command:
 
-`student@bchd:~$` `cd && wget https://raw.githubusercontent.com/csfeeser/Linux-Exercises/main/fileperms2.sh -Qo fileperms2.sh && bash fileperms2.sh`
+`student@bchd:~$` `cd`
+
+`student@bchd:~$` `wget https://raw.githubusercontent.com/csfeeser/Linux-Exercises/main/fileperms2.sh`
+
+`student@bchd:~$` `bash fileperms2.sh`
 
 ### Part 1
 
