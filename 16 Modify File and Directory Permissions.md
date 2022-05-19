@@ -8,7 +8,8 @@ Using what you've learned from lab 16 yesterday, do the following:
 
 Run the following command:
 
-student@bchd:~$
+`student@bchd:~$` `cd && wget https://raw.githubusercontent.com/csfeeser/Linux-Exercises/main/fileperms2.sh -qo fileperms2.sh && bash fileperms2.sh`
+
 ### Part 1
 
 Try to `ls` the `/home/student/challenge` directory.
