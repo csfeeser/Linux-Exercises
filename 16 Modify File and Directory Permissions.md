@@ -59,3 +59,16 @@ rm: cannot remove 'dir2/file2': Permission denied
 ```
 
 Fie! You won't be denied your victory. **DON'T USE SUDO RM, you cheater, you.** Change **only the necessary permission** that will allow you to delete `~/challenge/dir2/file2`.
+
+### SOLUTIONS
+
+```
+Part 1
+sudo chmod o+x /home/student/challenge
+
+Part 2
+sudo chmod o+w ~/challenge/file1
+
+Part 3
+sudo chmod o+w ~/challenge/dir2/
+```
