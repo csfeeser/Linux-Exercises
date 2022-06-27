@@ -12,4 +12,5 @@ Mischief managed! With your new `find` command, accomplish the following:
 
 - Find where a file named `SLAPPY` is located. 
 - Find and remove all files that end in `.horgledorgle`
-> Don’t try to hunt them all down individually-- use Google to find a solution!
+> Don’t try to hunt them all down individually-- use Google to find a solution!  
+> Here's a [helpful site](https://www.tecmint.com/35-practical-examples-of-linux-find-command/) that breaks down all the ways *find* can be used!
