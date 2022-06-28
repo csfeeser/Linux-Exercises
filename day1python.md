@@ -30,7 +30,6 @@ In your terminal, run these commands to execute the code:
 
 Convert that print function to use an F-STRING instead!
 
-<!--
 ## SOLUTION:
 
 ```python
