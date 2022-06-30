@@ -12,3 +12,12 @@ As we finish up our work with Linux today, do the following to test the most rec
 - Get rid of all files in `/home/student/` named `trash<#>.txt` (can you do this with a single `rm` command?)
 - Get rid of the nested directory `/trash/dirs/clog/things/up` in your `/home/student` directory.
 - Use the `ls` command to see what other files you've created today. Delete all files that end in `*.sh`, you won't be needing them moving forward.
+
+## SOLUTIONS
+
+```
+mv stuck.txt /home/student/static/haha_youre_stuck.txt
+rm /home/student/trash*
+rm -r /home/student/trash
+rm /home/student/*.sh
+```
