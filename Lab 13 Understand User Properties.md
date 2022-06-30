@@ -10,3 +10,7 @@ Using what you've learned in this lab, do the following:
     > NOTE: this value should be written in YYYY-MM-DD format
 
 - Check `/etc/passwd` to confirm that the user was created correctly!
+
+### SOLUTION
+
+`useradd -e 2022-07-15 -p alta3 inosuke`
